@@ -12,6 +12,11 @@ import VueResource from 'vue-resource'
 //Vue Scrool Reveal
 import VueScroolReveal from 'vue-scroll-reveal';
 
+//Import Velocity
+//import Velocity from 'velocity'
+
+// Vue.use(Velocity);
+
 Vue.use(VueResource);
 Vue.use(VueScroolReveal, {
    duration: 800,
